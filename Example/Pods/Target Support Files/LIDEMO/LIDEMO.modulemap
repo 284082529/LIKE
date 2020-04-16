@@ -1,0 +1,6 @@
+framework module LIDEMO {
+  umbrella header "LIDEMO-umbrella.h"
+
+  export *
+  module * { export * }
+}

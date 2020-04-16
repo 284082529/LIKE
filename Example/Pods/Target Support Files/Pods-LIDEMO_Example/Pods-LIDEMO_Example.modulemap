@@ -1,0 +1,6 @@
+framework module Pods_LIDEMO_Example {
+  umbrella header "Pods-LIDEMO_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
