@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LIDEMO'
-  s.version          = '0.1.0'
+  s.version          = '0.0.3'
   s.summary          = 'A short description of LIDEMO.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,8 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '284082529@qq.com' => '284082529@qq.com' }
-  s.source           = { :git => 'https://github.com/284082529@qq.com/LIDEMO.git', :tag => s.version.to_s }
+  #s.source           = { :git => 'https://github.com/284082529/LIKE.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/284082529/LIKE.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
