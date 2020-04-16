@@ -19,6 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 YZM is a big pig.
+YZM is a big pig.
+YZM is a big pig.
+YZM is a big pig.
+YZM is a big pig.
+YZM is a big pig.
                        DESC
 
   s.homepage         = 'https://github.com/284082529/LIKE'
